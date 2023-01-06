@@ -2,7 +2,7 @@
 
 <p align="center">
     <br>
-  <a href="https://discord.com/users/600804786492932101" target="_blank">
+  <a href="https://discord.com/users/472756345909805059" target="_blank">
     <img width="45%" src="https://cdn.discordapp.com/attachments/1056793542023970837/1060831469838270474/image.png" alt="Discord Status"/>
     </a>
 
@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-<a href="https://wakatime.com/@splinter" target="_blank">
+<a href="https://wakatime.com/@tzfofo" target="_blank">
 
 </a>
 </p>
