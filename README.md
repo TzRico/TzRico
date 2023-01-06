@@ -1,31 +1,39 @@
-## Oi, eu sou o Tz, criador de conteúdo de programação e tecnologia!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=My+Profile.)](https://git.io/typing-svg)
+
+<p align="center">
+    <br>
+  <a href="https://discord.com/users/472756345909805059" target="_blank">
+    <img width="45%" src="https://lanyard.cnrad.dev/api/600804786492932101?bg=151515&borderRadius=5px" alt="Discord Status"/>
+    </a>
 
 <div align="center">
-  <a href="https://github.com/Tzputao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tzputao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tzputao&layout=compact&langs_count=7&theme=midnight-purple"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zSpl1nterUS&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" />
+        <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zSpl1nterUS&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
+      <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=zSpl1nterUS&theme=midnight-purple&hide_border=true&background=151515">
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/952559002959622194/952559454916849704/a_4dba57d396ad8e3d50f0d415ecc77185.gif?width=427&height=427">
+
+<p align="center">
+<a href="https://wakatime.com/@splinter" target="_blank">
+
+</a>
+</p>
+
+<div style="display: inline_block" align="center">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Rafa-Js" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/tzfofo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/tzfofo" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+
+<br>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=zSpl1nterUS&color=green" alt="Profile views" />
 </div>
+
+</div>
+
+<hr>
+
+<h3 align='center'>
+    🚀 The sky isn't the limit.
+</h3>
